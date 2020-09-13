@@ -2,3 +2,4 @@
 This repository is belong to Nguyen Thi Minh Tam.
 
 Under the collaboration of: 
+Dam Tuan Minh
